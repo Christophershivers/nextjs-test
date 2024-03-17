@@ -66,7 +66,7 @@ export default function Home() {
       <div className="height-[100vh] flex justify-center"><CarouselDemo/></div>
 
       <Button className="card">Button</Button>
-      <TailButton variant="filled" >Button</TailButton>
+      <TailButton variant="filled" >Button1</TailButton>
       <div className="w-72">
         <Input label="Username" />
       </div>
